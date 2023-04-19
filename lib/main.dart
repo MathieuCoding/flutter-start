@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
             // style allows us to specify text style, such as fontSize and color
             style: TextStyle(
               fontSize: 50,
-              color: Colors.blueGrey[900],
+              color: Colors.blueGrey[800],
             ),
           ),
         ),
